@@ -1,14 +1,12 @@
-# Internet Draft Template Repository
+# On Comparable Energy Metrics for Internet Services
+
+## Template Repository Documentation
 
 The contents of this repository can be used to manage the editing of an
 [Internet Draft](https://authors.ietf.org/en/content-guidelines-overview).
 
 This tool provides many
 [features](https://github.com/martinthomson/i-d-template/blob/main/doc/FEATURES.md).
-
-# Getting Started
-
-You need a [GitHub account](https://github.com/join).
 
 The [template
 repository](https://github.com/martinthomson/i-d-template/blob/main/doc/TEMPLATE.md)
